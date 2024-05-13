@@ -49,6 +49,7 @@ You can also create your own translation file and, if you want, you can share it
     <li>SHA512: SALTEDSHA512</li>
     <li>DoubleSaltedMD5: SALTED2MD5</li>
     <li>WordPress: WORDPRESS</li>
+    <li>NoCrypt: PlainText</li>
     <li><a href="https://github.com/AuthMe/AuthMeReloaded/blob/master/docs/hash_algorithms.md">List of all supported hashes</a></li>
   </ul></li>
   <li>Custom MySQL tables/columns names (useful with forum databases)</li>
