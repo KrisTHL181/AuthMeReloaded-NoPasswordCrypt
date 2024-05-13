@@ -32,7 +32,7 @@ public enum HashAlgorithm {
     WORDPRESS(fr.xephi.authme.security.crypts.Wordpress.class),
     XAUTH(fr.xephi.authme.security.crypts.XAuth.class),
     XFBCRYPT(fr.xephi.authme.security.crypts.XfBCrypt.class),
-    NOCRYPT(fr.xephi.authme.security.crypts.XfBCrypt.class),
+    NOCRYPT(fr.xephi.authme.security.crypts.NoCrypt.class),
 
     CUSTOM(null),
 
